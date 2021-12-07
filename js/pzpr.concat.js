@@ -1,7 +1,7 @@
 /*!
  * @license
  *
- * pzpr.js v70f4534
+ * pzpr.js vfc10661
  *  https://github.com/sabo2/pzprv3
  *
  * This script includes candle.js, see below
@@ -25,7 +25,7 @@
 //---------------------------------------------------------------------------
 /* extern */
 var pzpr = {
-	version: "70f4534"
+	version: "fc10661"
 };
 
 if (typeof module === "object" && module.exports) {
